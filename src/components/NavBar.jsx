@@ -44,7 +44,7 @@ const Navbar = () => {
 
             <a
               type="button"
-              href="https://drive.google.com/file/d/1IL-AadcLDLQPoyZ6Owd6C4RdhI_mD0i1/view?usp=sharing"  target="_blank"
+              href="https://drive.google.com/file/d/1rVX3s4xHyb7I4rCd8daHWF8xvIED9HDW/view?usp=sharing"  target="_blank"
               class="text-white bg-gradient-to-r from-purple-500 to-pink-500 bg-transparent hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"
             >
               Resume
@@ -89,7 +89,7 @@ const Navbar = () => {
             </a>
             <a
               type="button"
-              href="https://drive.google.com/file/d/1IL-AadcLDLQPoyZ6Owd6C4RdhI_mD0i1/view?usp=sharing"  target="_blank"
+              href="https://drive.google.com/file/d/1rVX3s4xHyb7I4rCd8daHWF8xvIED9HDW/view?usp=sharing"  target="_blank"
               class="text-white bg-gradient-to-r from-purple-500 to-pink-500 bg-transparent hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"
             >
               Resume
