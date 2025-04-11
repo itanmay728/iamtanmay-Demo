@@ -3,6 +3,8 @@
 import React, { useState, useEffect } from "react";
 import logo from "../assets/logo.svg";
 
+let aTag = "block text-white py-2 px-1 hover:bg-gray-700";
+
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [isSticky, setIsSticky] = useState(false);
@@ -74,17 +76,17 @@ const Navbar = () => {
           </div>
         </div>
         {isOpen && (
-          <div className="md:hidden pb-4">
-            <a href="#About" className="block text-white py-2 px-1">
+          <div className="md:hidden pb-4 text-center">
+            <a href="#About" className={aTag}>
               About
             </a>
-            <a href="#" className="block text-white py-2 px-1">
+            <a href="#" className={aTag}>
               Experience
             </a>
-            <a href="#" className="block text-white py-2 px-1">
+            <a href="#" className={aTag}>
               Projects
             </a>
-            <a href="#" className="block text-white py-2 px-1">
+            <a href="#" className={aTag}>
               Contact
             </a>
             <a
